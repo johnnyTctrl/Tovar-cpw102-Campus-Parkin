@@ -26,7 +26,7 @@ estimated cost = 2.00 * 2.5
 
 ### Output
 _What will the program return or print to the user?_
-estimated cost 
+estimated cost
 
 ### Functions
 _What function(s) could this program use to modularize the logic? What actions belong together?_
