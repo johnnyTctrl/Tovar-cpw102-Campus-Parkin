@@ -2,9 +2,9 @@
 
 **Project:** Campus Parking Helper
 
-**Team members:**
+**Team members:** johnny tovar
 
-**Date:**
+**Date:** 30 september 2026
 
 ## User and problem
 
