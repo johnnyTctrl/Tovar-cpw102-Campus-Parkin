@@ -1,8 +1,6 @@
 # Product Requirements
-- The program must allow the user to enter their name and student's id.
 - The program must allow the user to enter the number of hours they parked.
 - The program must caculate the parking at $2 per hour.
-- The program must store the student's information while the programming is running.
 - The program does not need to include a paymeny plan or process actual payments.
 
 **Project:** Campus Parking Helper
@@ -27,7 +25,7 @@ Write three things the program must do. Make each one specific enough to test.
 
 1. The program must caculate how much money they will have to pay per hour
 2. The program must know how long the driver is there for
-3. The program must keep track of the driver and details
+3. The program must be able to caculate partial hours
 
 ## Not included
 
@@ -40,4 +38,4 @@ What will this version **not** do?
 
 
 ## Success
-We will know the product works when: students and staff will be able to succeccfully be able to caculate how much money they will have to spend for the amoutn of time they are parked.
+We will know the product works when: students will be able to caculate the estimated cost of parking.
