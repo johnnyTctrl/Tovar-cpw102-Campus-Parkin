@@ -3,10 +3,10 @@
 ## Test Case 1: Valid Input
 
 **Input / Action:**  
-Enter [a valid input]
+Enter [ 2.5 hours of parking]
 
 **Expected Result:**  
-The program calculates and displays the correct [output]
+The program calculates and displays the correct [$5.00]
 
 **Actual Result:**  
 _To be completed during testing._
@@ -19,7 +19,7 @@ Pass / Fail
 ## Test Case 2: Boundary Input
 
 **Input / Action:**  
-Enter the minimum or maximum allowed [input]
+Enter the minimum or maximum allowed [0.5 hour of parking]
 
 **Expected Result:**  
 The program handles the boundary value correctly.
